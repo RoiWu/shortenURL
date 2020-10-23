@@ -14,7 +14,7 @@ $ git clone https://github.com/RoiWu/AlphaCamp.git
 ```
 To TinyURL Location 
 ```
-$ cd AlphaCamp/TinyUrl
+$ cd shortenURL
 ```
 Install by [npm](https://www.npmjs.com/)
 ```
